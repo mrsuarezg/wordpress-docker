@@ -97,6 +97,8 @@ Thumbs.db
 .git
 #docker-compose.yml
 .dockerignore
+!.env.example
+!readme.md
 
 # track favicon files, if they exist
 !android-chrome-*.png
